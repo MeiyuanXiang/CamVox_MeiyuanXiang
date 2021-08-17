@@ -1,0 +1,30 @@
+%YAML:1.0
+
+# Camera Calibration and distortion parameters (OpenCV) 
+Camera.fx: 957.994  
+Camera.fy: 955.3280 
+Camera.cx: 790.335  
+Camera.cy: 250.6631 
+
+Camera.k1: -0.12
+Camera.k2: 0.1162
+Camera.p1: 0.0
+Camera.p2: 0.0
+Camera.k3: 0.0
+
+# image resolution
+Camera.width: 1520  
+Camera.height: 568 
+
+# Depthmap values factor
+DepthMapFactor: 504
+Camera.bf: 40.0
+
+# camera-lidar extrinsic parameters image using size
+Rect.x: 40
+Rect.y: 40
+Rect.width: 1300
+Rect.height: 500
+
+
+
